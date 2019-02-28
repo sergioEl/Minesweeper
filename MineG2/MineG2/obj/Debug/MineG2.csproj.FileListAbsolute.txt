@@ -1,0 +1,18 @@
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\bin\Debug\MineG2.exe.config
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\obj\Debug\MineG2.Form1.resources
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\obj\Debug\MineG2.Properties.Resources.resources
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\obj\Debug\MineG2.csproj.GenerateResource.Cache
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\bin\Debug\MineG2.exe
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\bin\Debug\MineG2.pdb
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\obj\Debug\MineG2.exe
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\obj\Debug\MineG2.pdb
+c:\users\sxh76090\documents\visual studio 2013\Projects\MineG2\MineG2\obj\Debug\MineG2.csprojResolveAssemblyReference.cache
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\bin\Debug\MineG2.exe.config
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\obj\Debug\MineG2.exe
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\obj\Debug\MineG2.pdb
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\bin\Debug\MineG2.exe
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\bin\Debug\MineG2.pdb
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\obj\Debug\MineG2.csprojResolveAssemblyReference.cache
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\obj\Debug\MineG2.Form1.resources
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\obj\Debug\MineG2.Properties.Resources.resources
+C:\Users\sxh76090\Desktop\MineG2\MineG2\MineG2\obj\Debug\MineG2.csproj.GenerateResource.Cache
