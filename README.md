@@ -4,6 +4,7 @@
 * Gamers have to find mines and mark all of them. Then, the game is over. 
 * Timer is on when the game is initiated.
 * Basic rules are the same as original Minsweeper game on Windows.
+
 _Enjoy!  - Seokho Han -_
 
 
